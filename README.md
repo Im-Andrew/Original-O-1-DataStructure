@@ -1,6 +1,6 @@
 # SwapStack
 
-A data structure which acts kind of like a stack, but with arbitrary access and arbitrary removal.
+A data structure I designed which is kind of like a stack, but with arbitrary access and arbitrary removal. It does so with a constant time complexity for adding, removing, and access. 
 
 
 # Try It with no setup
