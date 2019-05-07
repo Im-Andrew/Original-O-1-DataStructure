@@ -3,7 +3,7 @@
 A data structure I designed which is kind of like a stack, but with arbitrary access and arbitrary removal. It does so with a constant time complexity for adding, removing, and access. 
 
 
-# Try It with no setup
+# Try it with no setup
 
 Because Haxe is an uncommon language, it may be convenient for you to 
 install Haxe just to demo this Data Structure. You can try it in your browser with the link
