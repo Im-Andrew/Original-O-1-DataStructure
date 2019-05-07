@@ -9,7 +9,7 @@ Because Haxe is an uncommon language, it may be convenient for you to
 install Haxe just to demo this Data Structure. You can try it in your browser with the link
 below.
 
-Link: https://try.haxe.org/#77caB
+Link: https://try.haxe.org/#45f53
 
 
 # About the Data Structure
