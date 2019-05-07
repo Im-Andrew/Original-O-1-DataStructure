@@ -89,3 +89,8 @@ This could be for a large number of reasons coming down to not using a profiling
 or a better profiling technique, or simply some VM tricks happening under the hood,
 but I intend on updating this later to be a better test. At the moment, this is simply
 supposed to demonstrate how this algorithm should, in theory, benefit you.
+
+
+# [Contact me](https://www.making.codes/#contact-me)
+I am available for hire. You can quickly get in contact with me here:
+[making.codes/#contact-me](https://www.making.codes/#contact-me)
